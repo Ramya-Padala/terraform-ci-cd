@@ -5,3 +5,14 @@ This tutorial gives a complete understanding of Git, starting from basic concept
 
 Download Git
 You can download Git from its official website: https://git-scm.com/downloads/
+
+Types of Version Control Systems (VCS)
+The following is the list of types of VCS.
+
+Manual Version Control (Copying Files)
+
+Local Version Control Systems
+
+Centralized Version Control Systems
+
+Distributed Version Control Systems
